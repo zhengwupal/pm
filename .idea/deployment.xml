@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="geneplus@10.0.22.111:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="caizhw@10.0.1.101:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="./projects/test18" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="geneplus@10.0.22.111:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/projects/test" local="$PROJECT_DIR$" web="http:///" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
